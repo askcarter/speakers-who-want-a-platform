@@ -330,3 +330,8 @@ Technical Program Manager
 Asia Hoe
 Product Designer
 [Website](http://asiahoe.com) | [Twitter](https://twitter.com/asiahoe) | [LinkedIn](https://linkedin.com/in/asiah) | [GitHub](https://github.com/asiahoe)
+
+Carter Morgan  
+Developer Advocate  
+Google  
+[Twitter](https://twitter.com/_askcarter) | [Scalable Microservices with Kubernetes](https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615) | [Google I/O Talk](https://www.youtube.com/watch?v=21hXNReWsUU)
